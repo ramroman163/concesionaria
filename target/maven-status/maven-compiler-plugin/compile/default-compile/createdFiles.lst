@@ -1,0 +1,16 @@
+com\mycompany\concesionaria\igu\Menu$1.class
+com\mycompany\concesionaria\igu\Menu$2.class
+com\mycompany\concesionaria\igu\Carga$1.class
+com\mycompany\concesionaria\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\concesionaria\igu\Menu.class
+com\mycompany\concesionaria\logica\Automovil.class
+com\mycompany\concesionaria\persistencia\AutomovilJpaController.class
+com\mycompany\concesionaria\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\concesionaria\igu\Carga$2.class
+com\mycompany\concesionaria\Concesionaria.class
+com\mycompany\concesionaria\persistencia\ControladoraPersistencia.class
+com\mycompany\concesionaria\igu\Carga$3.class
+com\mycompany\concesionaria\igu\Carga.class
+com\mycompany\concesionaria\logica\ControladoraLogica.class
+com\mycompany\concesionaria\logica\Automovil_.class
+com\mycompany\concesionaria\persistencia\exceptions\IllegalOrphanException.class
